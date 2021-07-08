@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shiru313
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- ഒരു കൊച്ചു മലയാളി 😐
+
+
+
 
 <!---
 shiru313/shiru313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
