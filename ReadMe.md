@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shiru313&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shiru313&icon=5&color=12)](https://visitcount.itsvg.in)
